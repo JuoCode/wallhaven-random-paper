@@ -3,7 +3,7 @@
 ## Set wallpaper
 Enter `wp keyword` will search, download and set as wallpaper
 
-![wallhaven-random-paper](/screen.jpg?raw=true)
+![wallhaven-random-paper](/screen.png?raw=true)
 
 
 ## Like
